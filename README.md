@@ -14,15 +14,15 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ### Homepage
 
-![Homepage](screenshots/homepage.png)
+![Homepage](public/screenshots/homepage.png)
 
 ### All Courses Page
 
-![All Courses](screenshots/allcourses.png)
+![All Courses](public/screenshots/allcourses.png)
 
 ### Contact Us Page
 
-![Contact Us](screenshots/contactuspage.png)
+![Contact Us](public/screenshots/contactuspage.png)
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
